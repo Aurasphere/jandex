@@ -1,4 +1,6 @@
 # Jyandex
+
+[![Join the chat at https://gitter.im/jyandex/Lobby](https://badges.gitter.im/jyandex/Lobby.svg)](https://gitter.im/jyandex/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A Java library client for Yandex Translate service.
 
 The library offers three services: text translation, text language detection and available language for translation.
